@@ -444,10 +444,3 @@ div#sea {
     right: 230px;
   }
 }
-div.mensagem{
-    margin: 100px auto;
-    width: 400px;
-    color: white;
-    text-align: justify;
-    font-variant: small-caps;
-}
